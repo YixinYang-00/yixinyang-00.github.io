@@ -5,12 +5,30 @@
     <link>https://yixinyang-00.github.io/project/</link>
       <atom:link href="https://yixinyang-00.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yixinyang-00.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://yixinyang-00.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Learning Event Guided High Dynamic Range Video Reconstruction</title>
+      <link>https://yixinyang-00.github.io/project/hdrev/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/project/hdrev/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;h2 id=&#34;animated-results&#34;&gt;Animated Results&lt;/h2&gt;
+&lt;h2 id=&#34;bibtex&#34;&gt;BibTex&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;@inproceedings{
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yang2023HDRev,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title={Learning Event Guided High Dynamic Range Video Reconstruction},
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;author={Yixin Yang, Jin Han, Jinxiu Liang, Imari Sato, Boxin Shi},
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;booktitle={Conference on Computer Vision and Pattern Recognition 2023},
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;year={2023}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>External Project</title>
