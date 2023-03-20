@@ -7,7 +7,7 @@
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yixinyang-00.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yixinyang-00.github.io/media/icon_huc70d93133c25ab28042d15d1ecec0cb0_7012_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://yixinyang-00.github.io/</link>
     </image>
@@ -18,6 +18,7 @@
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://yixinyang-00.github.io/project/hdrev/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Limited by the trade-off between frame rate and exposure time when capturing moving scenes with conventional cameras, frame based HDR video reconstruction suffers from scene-dependent exposure ratio balancing and ghosting artifacts. Event cameras provide an alternative visual representation with a much higher dynamic range and temporal resolution free from the above issues, which could be an effective guidance for HDR imaging from LDR videos. In this paper, we propose a multimodal learning framework for event guided HDR video reconstruction. In order to better leverage the knowledge of the same scene from the two modalities of visual signals, a multimodal representation alignment strategy to learn a shared latent space and a fusion module tailored to complementing two types of signals for different dynamic ranges in different regions are proposed. Temporal correlations are utilized recurrently to suppress the flickering effects in the reconstructed HDR video. The proposed HDRev-Net demonstrates state-of-the-art performance quantitatively and qualitatively for both synthetic and real-world data.&lt;/p&gt;
 &lt;h2 id=&#34;animated-results&#34;&gt;Animated Results&lt;/h2&gt;
 &lt;h2 id=&#34;bibtex&#34;&gt;BibTex&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;@inproceedings{
@@ -214,7 +215,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-256814973&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-586139427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -224,7 +225,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-256814973&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-586139427&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
