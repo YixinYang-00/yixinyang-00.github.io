@@ -19,14 +19,13 @@
       <guid>https://yixinyang-00.github.io/project/hdrev/</guid>
       <description>&lt;html xml:lang=&#34;en&#34; lang=&#34;en&#34;&gt;
 &lt;head&gt;&lt;style type=&#34;text/css&#34;&gt; * {margin:0; padding:0; text-indent:0; }
- .hi { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
- .s1 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
- .s2 { color: #231F20; font-family:&#34;Trebuchet MS&#34;, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
- .s6 { color: #231F20; font-family:&#34;Bookman Old Style&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; vertical-align: 3pt; }
- .s7 { color: #231F20; font-family:&#34;Bookman Old Style&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
- .pi { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; margin:0pt; }
- .s8 { color: #231F20; font-family:&#34;Sitka Small&#34;; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; }
- .s9 { color: #231F20; font-family:&#34;Courier New&#34;, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s1 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .s2 { color: #231F20; font-family:&#34;Trebuchet MS&#34;, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; vertical-align: 4pt; }
+ .s6 { color: #231F20; font-family:&#34;Bookman Old Style&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; vertical-align: 3pt; }
+ .s7 { color: #231F20; font-family:&#34;Bookman Old Style&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; }
+ .pi { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; margin:0pt; }
+ .s8 { color: #231F20; font-family:&#34;Sitka Small&#34;; font-style: italic; font-weight: normal; text-decoration: none; font-size: 15pt; }
+ .s9 { color: #231F20; font-family:&#34;Courier New&#34;, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; }
 &lt;/style&gt;&lt;/head&gt;
 &lt;body&gt;
 &lt;!-- &lt;p class=&#34;hi&#34; style=&#34;padding-left: 25pt;text-indent: 0pt;line-height: 15pt;text-align: center;&#34;&gt;Learning Event Guided High Dynamic Range Video Reconstruction&lt;/p&gt; --&gt;
@@ -234,7 +233,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-256981473&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-374659218&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -244,7 +243,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-256981473&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-374659218&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
