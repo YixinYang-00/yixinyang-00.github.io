@@ -19,7 +19,7 @@
       <guid>https://yixinyang-00.github.io/project/hdrev/</guid>
       <description>&lt;html xml:lang=&#34;en&#34; lang=&#34;en&#34;&gt;
 &lt;head&gt;&lt;style type=&#34;text/css&#34;&gt; * {margin:0; padding:0; text-indent:0; }
- h1 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
+ .hi { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }
  .s1 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
  .s2 { color: #231F20; font-family:&#34;Trebuchet MS&#34;, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 4pt; }
  .s6 { color: #231F20; font-family:&#34;Bookman Old Style&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; vertical-align: 3pt; }
@@ -28,7 +28,7 @@
  .s8 { color: #231F20; font-family:&#34;Sitka Small&#34;; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; }
  .s9 { color: #231F20; font-family:&#34;Courier New&#34;, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
 &lt;/style&gt;&lt;/head&gt;
-&lt;body&gt;&lt;h1 style=&#34;padding-left: 25pt;text-indent: 0pt;line-height: 15pt;text-align: center;&#34;&gt;Learning Event Guided High Dynamic Range Video Reconstruction&lt;/h1&gt;
+&lt;body&gt;&lt;hi style=&#34;padding-left: 25pt;text-indent: 0pt;line-height: 15pt;text-align: center;&#34;&gt;Learning Event Guided High Dynamic Range Video Reconstruction&lt;/hi&gt;
 &lt;p class=&#34;s2&#34; style=&#34;padding-top: 5pt;padding-left: 28pt;text-indent: 0pt;text-align: center;&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Yixin Yang&lt;/span&gt;&lt;sup&gt;1,2&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Jin Han&lt;/span&gt;&lt;sup&gt;3,4&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Jinxiu Liang&lt;/span&gt;&lt;sup&gt;1,2&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Imari Sato&lt;/span&gt;&lt;sup&gt;3,4&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Boxin Shi&lt;/span&gt;&lt;sup&gt;*,1,2&lt;/sup&gt;&lt;/p&gt;
 &lt;p class=&#34;s6&#34; style=&#34;padding-left: 29pt;text-indent: 0pt;text-align: center;&#34;&gt;1&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&#34;s6&#34; style=&#34;padding-top: 3pt;padding-left: 29pt;text-indent: 0pt;text-align: center;&#34;&gt;2&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Engineering Research Center of Visual Technology, School of Computer Science, Peking University&lt;/span&gt;&lt;/p&gt;
@@ -233,7 +233,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-792438651&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-325678941&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -243,7 +243,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-792438651&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-325678941&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
