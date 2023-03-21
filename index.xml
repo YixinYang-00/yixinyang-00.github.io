@@ -60,7 +60,7 @@
            src=&#34;https://yixinyang-00.github.io/project/hdrev/indoor.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{width=&amp;ldquo;200%&amp;rdquo;}&lt;/p&gt;
+{width=&amp;ldquo;200px&amp;rdquo; height=&amp;ldquo;200px&amp;rdquo;}&lt;/p&gt;
 &lt;h2 id=&#34;bibtex&#34;&gt;BibTex&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;@inproceedings{
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yang2023HDRev,
@@ -256,7 +256,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-819423675&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-849352617&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -266,7 +266,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-819423675&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-849352617&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
