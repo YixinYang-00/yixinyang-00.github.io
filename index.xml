@@ -18,7 +18,7 @@
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://yixinyang-00.github.io/project/hdrev/</guid>
       <description>&lt;html xml:lang=&#34;en&#34; lang=&#34;en&#34;&gt;
-&lt;head&gt;&lt;style type=&#34;text/css&#34;&gt; * {margin:0; padding:0; text-indent:0; line-height: 1pt;}
+&lt;head&gt;&lt;style type=&#34;text/css&#34;&gt; * {margin:0; padding:0; text-indent:0;}
  .s1 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
  .s2 { color: #231F20; font-family:&#34;Trebuchet MS&#34;, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: 4pt; }
  .s6 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: 3pt; }
@@ -29,11 +29,11 @@
 &lt;/style&gt;&lt;/head&gt;
 &lt;body&gt;
 &lt;!-- &lt;p class=&#34;hi&#34; style=&#34;padding-left: 25pt;text-indent: 0pt;line-height: 15pt;text-align: center;&#34;&gt;Learning Event Guided High Dynamic Range Video Reconstruction&lt;/p&gt; --&gt;
-&lt;p class=&#34;s2&#34; style=&#34;padding-top: 8pt;text-indent: 0pt;line-height: 20pt;text-align: center;&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Yixin Yang&lt;/span&gt;&lt;sup&gt;1,2&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Jin Han&lt;/span&gt;&lt;sup&gt;3,4&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Jinxiu Liang&lt;/span&gt;&lt;sup&gt;1,2&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Imari Sato&lt;/span&gt;&lt;sup&gt;3,4&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Boxin Shi&lt;/span&gt;&lt;sup&gt;*,1,2&lt;/sup&gt;&lt;/p&gt;
-&lt;p class=&#34;s6&#34; style=&#34;text-indent: 0pt;line-height: 12pt;text-align: center;&#34;&gt;1&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&#34;s6&#34; style=&#34;padding-top: 3pt;text-indent: 0pt;line-height: 12pt;text-align: center;&#34;&gt;2&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Engineering Research Center of Visual Technology, School of Computer Science, Peking University&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&#34;s6&#34; style=&#34;padding-top: 3pt;text-indent: 0pt;line-height: 12pt;text-align: center;&#34;&gt;3 &lt;span class=&#34;pi&#34;&gt;Graduate School of Information Science and Technology, The University of Tokyo &lt;/span&gt;4&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Institute of Informatics&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&#34;s8&#34; style=&#34;padding-top: 1pt;text-indent: 0pt;line-height: 12pt;text-align: center;&#34;&gt;&lt;span class=&#34;s9&#34;&gt;{yangyixin93, cssherryliang, shiboxin}@pku.edu.cn {jinhan, imarik}@nii.ac.jp&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&#34;s2&#34; style=&#34;padding-top: 8pt;text-indent: 0pt;line-height: 5pt;text-align: center;&#34;&gt;&lt;span class=&#34;s1&#34;&gt;Yixin Yang&lt;/span&gt;&lt;sup&gt;1,2&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Jin Han&lt;/span&gt;&lt;sup&gt;3,4&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Jinxiu Liang&lt;/span&gt;&lt;sup&gt;1,2&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Imari Sato&lt;/span&gt;&lt;sup&gt;3,4&lt;/sup&gt;&lt;span class=&#34;s1&#34;&gt; Boxin Shi&lt;/span&gt;&lt;sup&gt;*,1,2&lt;/sup&gt;&lt;/p&gt;
+&lt;p class=&#34;s6&#34; style=&#34;text-indent: 0pt;line-height:5pt;text-align: center;&#34;&gt;1&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&#34;s6&#34; style=&#34;padding-top: 3pt;text-indent: 0pt;line-height: 5pt;text-align: center;&#34;&gt;2&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Engineering Research Center of Visual Technology, School of Computer Science, Peking University&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&#34;s6&#34; style=&#34;padding-top: 3pt;text-indent: 0pt;line-height: 5pt;text-align: center;&#34;&gt;3 &lt;span class=&#34;pi&#34;&gt;Graduate School of Information Science and Technology, The University of Tokyo &lt;/span&gt;4&lt;span class=&#34;s7&#34;&gt; &lt;/span&gt;&lt;span class=&#34;pi&#34;&gt;National Institute of Informatics&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&#34;s8&#34; style=&#34;padding-top: 1pt;text-indent: 0pt;line-height: 5pt;text-align: center;&#34;&gt;&lt;span class=&#34;s9&#34;&gt;{yangyixin93, cssherryliang, shiboxin}@pku.edu.cn {jinhan, imarik}@nii.ac.jp&lt;/span&gt;&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Limited by the trade-off between frame rate and exposure time when capturing moving scenes with conventional cameras, frame based HDR video reconstruction suffers from scene-dependent exposure ratio balancing and ghosting artifacts. Event cameras provide an alternative visual representation with a much higher dynamic range and temporal resolution free from the above issues, which could be an effective guidance for HDR imaging from LDR videos. In this paper, we propose a multimodal learning framework for event guided HDR video reconstruction. In order to better leverage the knowledge of the same scene from the two modalities of visual signals, a multimodal representation alignment strategy to learn a shared latent space and a fusion module tailored to complementing two types of signals for different dynamic ranges in different regions are proposed. Temporal correlations are utilized recurrently to suppress the flickering effects in the reconstructed HDR video. The proposed HDRev-Net demonstrates state-of-the-art performance quantitatively and qualitatively for both synthetic and real-world data.&lt;/p&gt;
@@ -302,7 +302,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-589276134&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-325948167&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -312,7 +312,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-589276134&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-325948167&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
