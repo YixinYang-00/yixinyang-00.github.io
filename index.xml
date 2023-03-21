@@ -18,7 +18,7 @@
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://yixinyang-00.github.io/project/hdrev/</guid>
       <description>&lt;html xml:lang=&#34;en&#34; lang=&#34;en&#34;&gt;
-&lt;head&gt;&lt;style type=&#34;text/css&#34;&gt; * {margin:0; padding:0; text-indent:0; }
+&lt;head&gt;&lt;style type=&#34;text/css&#34;&gt; * {margin:0; padding:0; text-indent:0; line-height: 1pt;}
  .s1 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
  .s2 { color: #231F20; font-family:&#34;Trebuchet MS&#34;, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: 4pt; }
  .s6 { color: #231F20; font-family:&#34;Times New Roman&#34;, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: 3pt; }
@@ -302,7 +302,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-219587436&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-589276134&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -312,7 +312,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-219587436&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-589276134&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
