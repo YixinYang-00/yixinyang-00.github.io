@@ -83,7 +83,7 @@
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
-&lt;video controls autoplay loop width=&#34;75%&#34;&gt;&lt;/p&gt;
+&lt;video controls autoplay muted loop width=&#34;75%&#34;&gt;&lt;/p&gt;
   &lt;source src=&#34;fig_lstm.mp4&#34; type=&#34;video/mp4&#34;&gt; 
   Your browser does not support the video. 
 &lt;/video&gt;
