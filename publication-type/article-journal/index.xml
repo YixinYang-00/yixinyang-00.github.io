@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Yixin Yang</title>
+    <link>https://yixinyang-00.github.io/publication-type/article-journal/</link>
+      <atom:link href="https://yixinyang-00.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yixinyang-00.github.io/media/icon_huc70d93133c25ab28042d15d1ecec0cb0_7012_512x512_fill_lanczos_center_3.png</url>
+      <title>Article-Journal</title>
+      <link>https://yixinyang-00.github.io/publication-type/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid High Dynamic Range Imaging fusing Neuromorphic and Conventional Images</title>
+      <link>https://yixinyang-00.github.io/publication/han-2022-neurimg-hdr/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/han-2022-neurimg-hdr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

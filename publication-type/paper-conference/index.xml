@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Yixin Yang</title>
+    <link>https://yixinyang-00.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://yixinyang-00.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yixinyang-00.github.io/media/icon_huc70d93133c25ab28042d15d1ecec0cb0_7012_512x512_fill_lanczos_center_3.png</url>
+      <title>Paper-Conference</title>
+      <link>https://yixinyang-00.github.io/publication-type/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Coherent Event Guided Low-Light Video Enhancement</title>
+      <link>https://yixinyang-00.github.io/publication/liang-2023-evlowlight/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/liang-2023-evlowlight/</guid>
+      <description>&lt;p&gt;hi&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All-in-Focus Imaging From Event Focal Stack</title>
+      <link>https://yixinyang-00.github.io/publication/lou-2023-cvpr/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/lou-2023-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Event Guided High Dynamic Range Video Reconstruction</title>
+      <link>https://yixinyang-00.github.io/publication/yang-2023-hd-rev/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/yang-2023-hd-rev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution</title>
+      <link>https://yixinyang-00.github.io/publication/ev-int-sr/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/ev-int-sr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
