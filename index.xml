@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Monochromatic Event Guided Image Deblurring with Event-triggering-aware Decomposition</title>
+      <link>https://yixinyang-00.github.io/publication/teng-2025-rgbdeblur/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/teng-2025-rgbdeblur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-guided HDR Reconstruction with Diffusion Priors</title>
+      <link>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Latency Correction for Event-guided Deblurring and Frame Interpolation</title>
       <link>https://yixinyang-00.github.io/publication/ev-latency/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
