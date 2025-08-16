@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Event-guided HDR Reconstruction with Diffusion Priors</title>
+      <link>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Monochromatic Event Guided Image Deblurring with Event-triggering-aware Decomposition</title>
       <link>https://yixinyang-00.github.io/publication/teng-2025-rgbdeblur/</link>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://yixinyang-00.github.io/publication/teng-2025-rgbdeblur/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Event-guided HDR Reconstruction with Diffusion Priors</title>
-      <link>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</link>
+      <title>EDeF-Net: Spatio-temporal Association Network for Flicker Removal in Event Streams</title>
+      <link>https://yixinyang-00.github.io/publication/han-2025-edefnet/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</guid>
+      <guid>https://yixinyang-00.github.io/publication/han-2025-edefnet/</guid>
       <description></description>
     </item>
     
