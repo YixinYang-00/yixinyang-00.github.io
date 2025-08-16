@@ -5,12 +5,84 @@
     <link>https://yixinyang-00.github.io/publication/</link>
       <atom:link href="https://yixinyang-00.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yixinyang-00.github.io/media/icon_huc70d93133c25ab28042d15d1ecec0cb0_7012_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yixinyang-00.github.io/media/icon_hu_abecfd005639262b.png</url>
       <title>Publications</title>
       <link>https://yixinyang-00.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>EDeF-Net: Spatio-temporal Association Network for Flicker Removal in Event Streams</title>
+      <link>https://yixinyang-00.github.io/publication/han-2025-edefnet/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/han-2025-edefnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-guided HDR Reconstruction with Diffusion Priors</title>
+      <link>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarimetric Neural Field with Unified Complex-Valued Wavefunction</title>
+      <link>https://yixinyang-00.github.io/publication/zhou-2025-polarimetric/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/zhou-2025-polarimetric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Latency Correction for Event-guided Deblurring and Frame Interpolation</title>
+      <link>https://yixinyang-00.github.io/publication/ev-latency/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/ev-latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Event Guided High Dynamic Range Video Reconstruction</title>
+      <link>https://yixinyang-00.github.io/publication/yang-2023-hd-rev/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/yang-2023-hd-rev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coherent Event Guided Low-Light Video Enhancement</title>
+      <link>https://yixinyang-00.github.io/publication/liang-2023-evlowlight/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/liang-2023-evlowlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-in-Focus Imaging From Event Focal Stack</title>
+      <link>https://yixinyang-00.github.io/publication/lou-2023-cvpr/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/lou-2023-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid High Dynamic Range Imaging fusing Neuromorphic and Conventional Images</title>
+      <link>https://yixinyang-00.github.io/publication/han-2022-neurimg-hdr/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/han-2022-neurimg-hdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution</title>
+      <link>https://yixinyang-00.github.io/publication/ev-int-sr/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/ev-int-sr/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

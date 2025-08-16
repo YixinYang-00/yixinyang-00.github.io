@@ -5,12 +5,68 @@
     <link>https://yixinyang-00.github.io/</link>
       <atom:link href="https://yixinyang-00.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yixin Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yixinyang-00.github.io/media/icon_huc70d93133c25ab28042d15d1ecec0cb0_7012_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yixinyang-00.github.io/media/icon_hu_abecfd005639262b.png</url>
       <title>Yixin Yang</title>
       <link>https://yixinyang-00.github.io/</link>
     </image>
+    
+    <item>
+      <title>EDeF-Net: Spatio-temporal Association Network for Flicker Removal in Event Streams</title>
+      <link>https://yixinyang-00.github.io/publication/han-2025-edefnet/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/han-2025-edefnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-guided HDR Reconstruction with Diffusion Priors</title>
+      <link>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarimetric Neural Field with Unified Complex-Valued Wavefunction</title>
+      <link>https://yixinyang-00.github.io/publication/zhou-2025-polarimetric/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/zhou-2025-polarimetric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Latency Correction for Event-guided Deblurring and Frame Interpolation</title>
+      <link>https://yixinyang-00.github.io/publication/ev-latency/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/ev-latency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Event Guided High Dynamic Range Video Reconstruction</title>
+      <link>https://yixinyang-00.github.io/publication/yang-2023-hd-rev/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/yang-2023-hd-rev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coherent Event Guided Low-Light Video Enhancement</title>
+      <link>https://yixinyang-00.github.io/publication/liang-2023-evlowlight/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/liang-2023-evlowlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-in-Focus Imaging From Event Focal Stack</title>
+      <link>https://yixinyang-00.github.io/publication/lou-2023-cvpr/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/lou-2023-cvpr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Event Guided High Dynamic Range Video Reconstruction</title>
@@ -83,25 +139,39 @@
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
-&lt;video autoplay muted loop width=&#34;10&#34;&gt;&lt;/p&gt;
-  &lt;source src=&#34;fig_lstm.mp4&#34; type=&#34;video/mp4&#34;&gt; 
-  Your browser does not support the video. 
-&lt;/video&gt;
+&lt;video autoplay muted loop width=&#34;10&#34;&gt;
+&lt;source src=&#34;fig_lstm.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video.
+&lt;/video&gt;&lt;/p&gt;
 &lt;h2 id=&#34;supplementary-video&#34;&gt;Supplementary Video&lt;/h2&gt;
 &lt;video controls width=&#34;100%&#34; &gt;
   &lt;source src=&#34;sup-video-crop.mp4&#34; type=&#34;video/mp4&#34;&gt; 
   Your browser does not support the video. 
 &lt;/video&gt;
 &lt;h2 id=&#34;bibtex&#34;&gt;BibTex&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;inproceedings&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;yang2023HDRev&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Learning&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Event&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Guided&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;High&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Dynamic&lt;/span&gt; &lt;span class=&#34;ne&#34;&gt;Range&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Video&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Reconstruction&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;author&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Yixin&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Yang&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Jin&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Han&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Jinxiu&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Liang&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Imari&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Sato&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Boxin&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Shi&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;booktitle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Proceedings&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;IEEE&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CVF&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Conference&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;on&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Computer&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Vision&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Pattern&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Recognition&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CVPR&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)},&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;year&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2023&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bibtex&#34; data-lang=&#34;bibtex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nc&#34;&gt;@inproceedings&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;yang2023HDRev&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;na&#34;&gt;author&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{Yixin Yang, Jin Han, Jinxiu Liang, Imari Sato, Boxin Shi}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;na&#34;&gt;booktitle&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;na&#34;&gt;title&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{Learning Event Guided High Dynamic Range Video Reconstruction}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;na&#34;&gt;year&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;{2023}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hybrid High Dynamic Range Imaging fusing Neuromorphic and Conventional Images</title>
+      <link>https://yixinyang-00.github.io/publication/han-2022-neurimg-hdr/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/han-2022-neurimg-hdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution</title>
+      <link>https://yixinyang-00.github.io/publication/ev-int-sr/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yixinyang-00.github.io/publication/ev-int-sr/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -211,7 +281,7 @@ $$&lt;/p&gt;
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;ni&#34;&gt;#0000FF&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
