@@ -5,36 +5,12 @@
     <link>https://yixinyang-00.github.io/publication-type/paper-conference/</link>
       <atom:link href="https://yixinyang-00.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yixinyang-00.github.io/media/icon_hu_abecfd005639262b.png</url>
       <title>Paper-Conference</title>
       <link>https://yixinyang-00.github.io/publication-type/paper-conference/</link>
     </image>
-    
-    <item>
-      <title>EDeF-Net: Spatio-temporal Association Network for Flicker Removal in Event Streams</title>
-      <link>https://yixinyang-00.github.io/publication/han-2025-edefnet/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://yixinyang-00.github.io/publication/han-2025-edefnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event-guided HDR Reconstruction with Diffusion Priors</title>
-      <link>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://yixinyang-00.github.io/publication/yang-2025-hdrev-diffu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polarimetric Neural Field with Unified Complex-Valued Wavefunction</title>
-      <link>https://yixinyang-00.github.io/publication/zhou-2025-polarimetric/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://yixinyang-00.github.io/publication/zhou-2025-polarimetric/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Learning Latency Correction for Event-guided Deblurring and Frame Interpolation</title>
